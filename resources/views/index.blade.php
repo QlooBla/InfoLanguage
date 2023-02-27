@@ -12,6 +12,7 @@
                             <div class="slider-start__slide swiper-slide">
                                 <div class="slider-start__body">
                                     <img src="img/mainPage/01.jpg" alt="">
+
                                     <div class="slider-start__info">
                                         <h2 class="slider-start__title">Япония</h2>
                                         <div class="slider-start__text">
